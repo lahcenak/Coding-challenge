@@ -1,0 +1,10 @@
+*.pyc
+*.pyo
+*~
+!.gitignore
+*.swp
+*.swo
+server.log
+.vscode
+__pycache__
+.idea
